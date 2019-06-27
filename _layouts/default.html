@@ -30,8 +30,7 @@
       </section>
       <footer>
        <ul>
-        {% assign mypages = site.pages | sort: "order" %}
-        {% for page in mypages %}
+        {% for page in site.pages %}
           <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
         {% endfor %}
          <li><a href="mailto:info@vamosmobility.com">Contact us</a></li>
