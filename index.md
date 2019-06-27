@@ -15,9 +15,3 @@ Customers with a smartphone can use the app to plan trips within and between San
 
 Vamos Mobility is part of the Valley Flex/Valley Go project, an ecosystem of new rural transportation options being developed in the San Joaquin Valley. The project was made possible by a [California Air Resources Board](https://ww2.arb.ca.gov/our-work/programs/california-climate-investments) grant putting cap-and-trade dollars to work in the state, as well as contributions by local project partners.
 
-
-- [Privacy Policy](privacy.html)
-- [Terms of Service](terms-of-service.html)
-- [Support](support.html)
-- [Email](mailto:info@vamosmobility.com)
-
