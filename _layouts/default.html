@@ -30,8 +30,7 @@
       </section>
       <footer>
        <ul>
-        {% assign my_pages = site.pages | where_exp: "page", "page.ext != 'css'" %}
-        {% for page in my_pages %}
+        {% for page in site.html_pages %}
           <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
         {% endfor %}
          <li><a href="mailto:info@vamosmobility.com">Contact us</a></li>
