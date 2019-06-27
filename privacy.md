@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 layout: default
+order: 4
 ---
 
 # Privacy policy
