@@ -1,6 +1,7 @@
 ---
 title: Welcome to Vamos Mobility
 layout: default
+order: 1
 ---
 
 # {{ page.title }}
