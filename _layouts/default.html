@@ -29,6 +29,14 @@
 
       </section>
       <footer>
+       <ul>
+        {% assign mypages = site.pages | sort: "order" %}
+        {% for page in mypages %}
+          <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+- [Email](mailto:info@vamosmobility.com)
+
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">The Shared-Use Mobility Center</a></p>
         {% endif %}
