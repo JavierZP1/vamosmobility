@@ -1,4 +1,9 @@
+---
+title: Welcome to Vamos Mobility
+layout: default
+---
 
+# {{ page.title }}
 
 Problem with Vamos Mobility?
 
