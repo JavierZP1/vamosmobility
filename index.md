@@ -12,5 +12,5 @@ Vamos Mobility lets you plan trips in San Joaquin and Stanislaus Counties. Downl
 - [Terms of Service](./terms-of-service.html)
 - [Support](./support.html)
 - [Email](mailto:info@vamosmobility.com)
-- [VamosMobility.com](vamosmobility.com)
+- [VamosMobility.com](index.html)
 
