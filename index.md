@@ -20,5 +20,4 @@ Vamos Mobility is part of the Valley Flex/Valley Go project, an ecosystem of new
 - [Terms of Service](terms-of-service.html)
 - [Support](support.html)
 - [Email](mailto:info@vamosmobility.com)
-- [VamosMobility.com](index.html)
 
