@@ -1,5 +1,5 @@
 ---
-title: Welcome to Vamos Mobility
+title: Terms of Service
 layout: default
 ---
 
