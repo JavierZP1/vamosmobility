@@ -1,6 +1,7 @@
 ---
 title: Support
 layout: default
+order: 2
 ---
 
 # {{ page.title }}
