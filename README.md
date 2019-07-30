@@ -1,5 +1,5 @@
 # vamosmobility
-This is the repository for pages used to build the [Vamos Mobility website](https://vamosmobility.com).
+This is the repository for pages used to build the [Vamos Mobility website](https://vamosmobility.com) located at vamosmobility.com.
 
 Pages should be written in [Markdown](https://guides.github.com/features/mastering-markdown/), and will be rendered into HTML by Github Pages, which uses the [Jekyll](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages) static site generator framework. You don't need to worry about headers/footers, design, and so forth--all of that is automatically added according to the site defaults. Just concentrate on writing the page content. 
 
